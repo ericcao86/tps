@@ -31,7 +31,7 @@
         <!--redis rabbitmq-->
         <redis.version>1.8.1.RELEASE</redis.version>
         <jedis.version>2.9.0</jedis.version>
-        <rabbitmq.version>4.1.0</rabbitmq.version>
+        <rabbitmq.version>4.8.0</rabbitmq.version>
         <jgroups.version>4.0.2.Final</jgroups.version>
         <mapdb.version>3.0.3</mapdb.version>
         <aliyun.oss.version>2.6.1</aliyun.oss.version>
