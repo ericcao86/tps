@@ -1,6 +1,6 @@
 package com.iflytek.tps.foun.util;
 
-import com.ruochuchina.foun.dto.DateFormat;
+import com.iflytek.tps.foun.dto.DateFormat;
 
 import java.math.BigDecimal;
 import java.text.SimpleDateFormat;

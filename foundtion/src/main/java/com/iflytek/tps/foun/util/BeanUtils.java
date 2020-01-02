@@ -3,9 +3,10 @@ package com.iflytek.tps.foun.util;
 import com.alibaba.fastjson.JSONObject;
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;
+import com.iflytek.tps.foun.dto.DateFormat;
+import com.iflytek.tps.foun.dto.IEnum;
 import com.rits.cloning.Cloner;
-import com.ruochuchina.foun.dto.DateFormat;
-import com.ruochuchina.foun.dto.IEnum;
+
 import org.apache.commons.lang3.ClassUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.reflect.FieldUtils;

@@ -1,7 +1,7 @@
 package com.iflytek.tps.foun.redis;
 
 import com.google.common.base.Splitter;
-import com.ruochuchina.foun.utils.CollectionUtils;
+import com.iflytek.tps.foun.util.CollectionUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
