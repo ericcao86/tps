@@ -31,11 +31,13 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.actuate.health.Health;
 import org.springframework.boot.actuate.health.HealthIndicator;
-import org.springframework.boot.actuate.redis.RedisHealthIndicator;
+
+import org.springframework.boot.actuate.health.RedisHealthIndicator;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 
+import org.springframework.boot.autoconfigure.web.ErrorController;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
-import org.springframework.boot.web.servlet.error.ErrorController;
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.core.MethodParameter;
 import org.springframework.core.env.Environment;
