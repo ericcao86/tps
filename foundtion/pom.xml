@@ -43,7 +43,7 @@
         <commons.fileupload.version>1.3.2</commons.fileupload.version>
         <php-serializer.version>3.0.2</php-serializer.version>
         <dom4j.version>1.6.1</dom4j.version>
-        <poi.excel.version>3.16</poi.excel.version>
+        <poi.excel.version>5.2.1</poi.excel.version>
         <swagger2.version>2.6.1</swagger2.version>
         <freemarker.version>2.3.23</freemarker.version>
         <fastjson.version>1.2.29</fastjson.version>
